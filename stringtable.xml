@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Wasteland">
+
+	<Key ID="STR_TB_missionTitle_TB_Wasteland">
+		<Original>Wasteland</Original>
+		<English>Wasteland</English>
+		<German>Wasteland</German>
+		<Italian>Wasteland</Italian>
+		<Spanish>Wasteland</Spanish>
+		<French>Wasteland</French>
+		<Czech>Wasteland</Czech>
+		<Russian>Wasteland</Russian>
+		<Polish>Wasteland</Polish>
+		<Hungarian>Wasteland</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

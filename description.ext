@@ -1,0 +1,15 @@
+enableDebugConsole = 1;
+
+#define TB_loadingScreen_imagePath "tb_loadingScreen.jpg"
+
+onLoadName="Wastelands";
+
+author="Dr_Eyeball (TacBF Team)";
+onLoadMission="Tactical Battlefield: <t color='#FF00A5A5'>Advance and Secure (A&amp;S)</t><br />Rural wastelands, ruins.<br /><t color='#FF00AEFF'>US</t> &amp; <t color='#FFD66361'>RU</t> = light vehicles. RPs, MGs, MWs. No FOs.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+
+#include "tb_mountedWeapons.hpp"
